@@ -1,0 +1,39 @@
+header {
+        background:$color--primary;
+}
+
+.pageheader__menu {
+        padding-bottom: 40px;
+        color: $color--link;
+
+        li {
+                margin: 0 10px ;
+        }
+}
+
+
+
+
+
+.menu_title {
+        padding: 40px 0 40px;
+        color: $color--text;
+}
+
+#hero {
+        width: 100%;
+}
+
+.hero_title {
+        color: $color--text;
+        padding: 40px 0 40px;
+}
+
+.hero_visual {
+        height: 550px;
+        overflow: hidden;
+}
+
+.hero_img {
+
+}
